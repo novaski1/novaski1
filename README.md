@@ -1,10 +1,14 @@
-# novaski1
- 
-<h3 align="center">A passionate frontend developer from India</h3>
+# A passionate Python programmer from France
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Welcome to my Github!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> </p>
+I am currently working as a Senior Data Scientist at Oracle. In my free time, I like spending time working on several personal projects using Python, composing music and playing videogames. I always try to work on programming projects that correlate with my other interests: I worked on several projects related to music composition using Python, and I also have experience with game dev with the Pygame library.
+
+### Repositories
+- **[PHBG - Procedural Hip-hop Beat Generator](https://github.com/novaski1/PHBG "PHBG")**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+A hip-hop instrumental generator using procedural generation programmed in Python.
+
+- **[2D Top Down Game](https://github.com/novaski1/2D-Top-Down-Game "2D Top Down Game")**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+A draft of a 2D top down shooter game programmed using the Pygame library.
