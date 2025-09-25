@@ -1,9 +1,3 @@
-# A passionate Python programmer from France
-
-Welcome to my Github!
-
-I am currently working as a Senior Data Scientist at Oracle. In my free time, I like spending time working on several personal projects using Python, composing music and playing videogames. I always try to work on programming projects that correlate with my other interests: I worked on several projects related to music composition using Python, and I also have experience with game dev with the Pygame library.
-
 ### Repositories
 **[PHBG - Procedural Hip-hop Beat Generator](https://github.com/novaski1/PHBG "PHBG")** 
 
